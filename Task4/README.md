@@ -39,5 +39,6 @@ git diff
 
 
 - Current change is current branch's(**main**) change and incoming change is another branch's(**regular**) change.
+
 ![3](screenshots/conflict.png)
 
