@@ -22,7 +22,7 @@ git restore text1.txt
 
 ![1](screenshots/1.png)
 
-### Undoing changes - Reverting changes (After commit)
+### Undoing changes - Reverting commits (After commit)
 
 - Used to revert the commits by using **revert** and **reset**.
 
