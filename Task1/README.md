@@ -21,7 +21,7 @@ git branch -M main
 - `git add text1.txt` used to stage the text file which is ready to commit
 - `git commit -m "Add text file" ` used to commit the changes to the repo with commit message
 - `git status` used to show the untracked and unstaged files in directory
-- `git branch **-M** main` used to rename the current branch (master) to main.
+- `git branch -M main` used to rename the current branch (master) to main.
 
 ![1](screenshots/1.png)
 
@@ -44,10 +44,11 @@ git commit -m "Add file2"
 ```
 
 - Now in the regular branch,
-  -- These commands will create text2 file.
-  -- Staged and committed the file to regular branch.
+- These commands will create text2 file.
+- Staged and committed the file to regular branch.
 
 ![3](screenshots/3.png)
+
 ```bash
 git checkout main
 git merge regular
