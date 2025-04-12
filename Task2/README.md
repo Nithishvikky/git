@@ -34,3 +34,7 @@ git status
 
 ![2](screenshots/2.png)
 
+### .gitignore config file
+
+![3](screenshots/3.png)
+
