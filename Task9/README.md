@@ -8,7 +8,7 @@
 - Remote services refer to cloud-based tools and platforms that developers use to collaborate, share, and manage code—even if they're in different cities, countries, or time zones.
 - GitHub, GitLab, Bitbucket, CI/CD platforms (like GitHub Actions, Jenkins), cloud storage, deployment tools, etc.
 
-## Steps what I done
+## What I did
 
 - As usual initialize the local repository.
 

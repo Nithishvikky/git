@@ -10,7 +10,7 @@
     - pre-push: Before code is pushed to a remote.
     - commit-msg: When a commit message is created.
 
-## What I done
+## What I did
 
 - Navigate to the directory
 

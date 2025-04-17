@@ -9,7 +9,7 @@
 - Git won't allow you to switch to another branch before committing changes. In that case, `stash` will help.
 - `stash` works like `stack`.
 
-## working
+## Working
 
 - I changed in **text1.txt** file and switched to another branch(**regular**) without committing these changes.
 - Git gave an error.

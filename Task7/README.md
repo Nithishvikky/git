@@ -8,7 +8,7 @@
 - Picking a specific commit from another branch to apply in the current branch without the need of merge.
 - If that commit affect the same file lines in current branch which also have committed changes, It'll raise the conflict.
 
-## What I done
+## What I did
 
 - **main** branch log history is visible in the below image.
 - In this branch, I changed committed 2 exisiting files and also created one file(**12d9d82 "file4 added"**).
