@@ -5,7 +5,7 @@
 
 ## Workflow of this task
 - Here I created `main`, `feature`, `bugfix/navbar` and `release/v1.0` branches.
-    -`main` – This is the main branch. It holds the final and stable code.
+    - `main` – This is the main branch. It holds the final and stable code.
     - `feature` – Used for adding new features. (In this case, I added a `login.js` file.)
     - `bugfix/navbar` – Used for fixing bugs. (I added a fix in the `index.js` file.)
     - `release/v1.0` – This branch prepares the code for version 1.0 release. We merged both the feature and bugfix here before going to main.
@@ -77,7 +77,7 @@
 
 ![8](screenshots/8.png)
 
-### Multi-branch workflow
+### 8. Multi-branch workflow
 
 - I worked on features in the `feature` branch.
 - I fixed bugs in the `bugfix/navbar` branch.
