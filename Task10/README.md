@@ -8,7 +8,7 @@
     - `main` – This is the main branch. It holds the final and stable code.
     - `feature` – Used for adding new features. (In this case, I added a `login.js` file.)
     - `bugfix/navbar` – Used for fixing bugs. (I added a fix in the `index.js` file.)
-    - `release/v1.0` – This branch prepares the code for version 1.0 release. We merged both the feature and bugfix here before going to main.
+    - `release/v1.0` – This branch prepares the code for version 1.0 release. I merged both the feature and bugfix here before going to main.
 - I simulated scenario where I should use forced pushes. For that, I changed the commit history by rebasing it and pushed it by force.
 - After pushing it by force, I realized that I pushed the wrong change and there was no way to return to the previous commit.
 - Now, the lifesaver command `git reflog` helped me recover that commit and reset the commit history.
